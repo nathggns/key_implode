@@ -12,13 +12,13 @@ string key_implode(string $pair_glue, string $glue, array $arr)
 Given an associative array, `key_implode()` returns a string where both the keys and the values have been imploded by a specified glue.
 
 ```php
-
 key_implode(':', '/', [
     'page' => 2,
     'letter' => 'A'
 ]);
 
 // page:2/letter:A
+```
 
 ## Installation
 

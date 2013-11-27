@@ -32,6 +32,6 @@ The easiest way to install this library is to use Composer and add the following
 }
 ```
 
-Then, when you run `composer instsll`, Composer should add this function to your project.
+Then, when you run `composer install`, Composer should add this function to your project.
 
 You do not need Composer to use this project, though. The alternative is to simply take the file `src/key_implode.php` and add it to your project.

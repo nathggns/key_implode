@@ -13,7 +13,7 @@
         }
     ],
     "autoload": {
-        "files": ["src/array_column.php"]
+        "files": ["src/key_implode.php"]
     },
     "support": {
         "issues": "https://github.com/nathggns/key-implode/issues",

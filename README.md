@@ -27,7 +27,7 @@ The easiest way to install this library is to use Composer and add the following
 ```javascript
 {
     "require": {
-        "nathggns/key_implode": "~1.0"
+        "nathggns/key_implode": "1.1.*"
     }
 }
 ```

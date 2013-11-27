@@ -1,5 +1,6 @@
 {
     "name": "nathggns/key_implode",
+    "version": "1.0",
     "description": "Implode PHP array by both key and value",
     "homepage": "https://github.com/nathggns/key-implode",
     "license": "MIT",

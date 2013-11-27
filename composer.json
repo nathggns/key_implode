@@ -1,0 +1,23 @@
+{
+    "name": "nathggns/key_implode",
+    "description": "Implode PHP array by both key and value",
+    "homepage": "https://github.com/nathggns/key-implode",
+    "license": "MIT",
+    "type": "library",
+    "keywords": ["array", "implode", "key", "assoc", "key_implode"],
+    "authors": [
+        {
+            "name": "Nathaniel Higgins",
+            "email": "nat@nath.is",
+            "homepage": "http://nath.is"
+        }
+    ],
+    "autoload": {
+        "files": ["src/array_column.php"]
+    },
+    "support": {
+        "issues": "https://github.com/nathggns/key-implode/issues",
+        "source": "https://github.com/nathggns/key-implode"
+    },
+
+}
